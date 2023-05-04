@@ -1,6 +1,6 @@
 # NeuralNetworks_FromScratch
 
-This was a project I worked on for a Bio Inspired Computing Class.
+This was a personal project I worked on for learning purposes.
 
 It implements a shallow neural network from scratch (without tensorflow, but with numpy for mathematical operations, and sklearn for splitting data).
 
